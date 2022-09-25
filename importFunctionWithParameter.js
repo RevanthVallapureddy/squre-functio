@@ -1,0 +1,1 @@
+const squre = require("./exportFunctionWithParameter");
